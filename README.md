@@ -1,3 +1,5 @@
+This app is created as a practice project following the tutorial https://www.geeksforgeeks.org/create-todo-app-using-reactjs/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
